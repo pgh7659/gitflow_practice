@@ -6,5 +6,6 @@ public class Test {
     Test2 test = new Test2();
     test.print();
     System.out.println("ORDER");
+    System.out.println("ddddd");
   }
 }
