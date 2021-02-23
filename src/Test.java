@@ -1,5 +1,9 @@
+import function.Test2;
+
 public class Test {
+
   public static void main(String[] args) {
-    System.out.println("hello world!");
+    Test2 test = new Test2();
+    test.print();
   }
 }
